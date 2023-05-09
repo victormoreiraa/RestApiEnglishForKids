@@ -1,0 +1,19 @@
+{
+  "name": "restapienglishforkids",
+  "version": "1.0.0",
+  "description": "Rest Api english for kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+httpsgithub.comvictormoreiraaRestApiEnglishForKids.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
