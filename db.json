@@ -1,0 +1,31 @@
+{
+"user":[
+{
+    
+        "id": 1,
+        "name": "Victor",
+        "email": "victorhsm4461@gmail.com",
+        "xp": 0,
+        "highscore": 0
+      
+}
+],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylddGxIAGS7VkEvqnV727BbwQB3AKU4uMJA&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylddGxIAGS7VkEvqnV727BbwQB3AKU4uMJA&usqp=CAU"
+    },
+    {
+      "name": "teste 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylddGxIAGS7VkEvqnV727BbwQB3AKU4uMJA&usqp=CAU",
+      "id": 3
+    }
+  ]
+}
